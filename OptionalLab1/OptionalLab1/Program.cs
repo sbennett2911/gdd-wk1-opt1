@@ -17,6 +17,13 @@ namespace OptionalLab1
             //solves problem 2.
 
             //solves problem 3.
+            string[] favGames = {"Zelda", "Mario Bros.", "Metroid"};
+            Console.WriteLine("My favorite games are: ");
+            foreach (var item in favGames)
+            {
+                Console.WriteLine(item);
+            }
+
         }
     }
 }
