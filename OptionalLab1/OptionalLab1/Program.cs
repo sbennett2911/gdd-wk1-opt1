@@ -15,6 +15,8 @@ namespace OptionalLab1
             Console.WriteLine("Hello my name is: " + myName);
 
             //solves problem 2.
+            string bestie = "Jennifer";
+            Console.WriteLine("My best friend is: " + bestie);
 
             //solves problem 3.
         }
