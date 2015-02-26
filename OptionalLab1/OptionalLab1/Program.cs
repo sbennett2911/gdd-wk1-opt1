@@ -19,6 +19,13 @@ namespace OptionalLab1
             Console.WriteLine("My best friend is: " + bestie);
 
             //solves problem 3.
+            string[] favGames = {"Zelda", "Mario Bros.", "Metroid"};
+            Console.WriteLine("My favorite games are: ");
+            foreach (var item in favGames)
+            {
+                Console.WriteLine(item);
+            }
+
         }
     }
 }
