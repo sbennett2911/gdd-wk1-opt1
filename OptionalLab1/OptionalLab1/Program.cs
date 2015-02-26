@@ -10,6 +10,13 @@ namespace OptionalLab1
     {
         static void Main(string[] args)
         {
+            //solves problem 1.
+            string myName = "Steven";
+            Console.WriteLine("Hello my name is: " + myName);
+
+            //solves problem 2.
+
+            //solves problem 3.
         }
     }
 }
